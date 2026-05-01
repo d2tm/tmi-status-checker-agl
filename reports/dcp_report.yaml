@@ -49,18 +49,8 @@ Distinguished Club Program Report:
             status: 4 New Members needed
             target: "4"
         New members:
-<<<<<<< HEAD
-<<<<<<< HEAD
             achieved: "0"
             status: 4 New Members needed
-=======
-            achieved: "3"
-            status: 1 New Member needed
->>>>>>> 017e26c (Auto commit: updated the club dcp report files)
-=======
-            achieved: "4"
-            status: Achieved
->>>>>>> c9f259d (Fixes for CI build timeout, go modules and npm package update)
             target: "4"
     Training:
         Club officer roles trained June–August:
