@@ -42,6 +42,7 @@ func generateMessageBody(club_number string, club_name string) string {
 	if club_name == "" {
 		club_name = "Toastmasters Club"
 	}
+
 	is_corporate_club := os.Getenv("IS_CORPORATE_CLUB")
 	message := notify.GetMessage()
 	message = strings.ReplaceAll(message, "```html", "")
